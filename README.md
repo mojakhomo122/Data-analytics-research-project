@@ -1,0 +1,1 @@
+This is a Data analytics Research project that aims to explain and define some of the key Data related concepts in a manner that is easily understandable by everyone.It is a theoretical introduction to Data Analytics.
